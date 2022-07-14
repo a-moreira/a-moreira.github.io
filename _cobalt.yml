@@ -1,0 +1,7 @@
+# Build options
+source: "."
+template_extensions:
+  - md
+  - liquid
+include_drafts: false
+destination: _site
