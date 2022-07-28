@@ -3,13 +3,18 @@ layout: index.liquid
 title: inimois
 ---
 
-![blob](./assets/blob.gif)
-
-<img src="assets/soykaf.jpg">
-
-[about](./about.html)
-
-[blog](./blog.html)
-
-[misc](./misc.html)
-
+<p align="center">
+  <img src="assets/blob.gif">
+</p>
+<p align="center">
+  <img src="assets/soykaf.jpg">
+</p>
+<p align="center">
+  <a href="about.html">about</a>
+</p>
+<p align="center">
+  <a href="blog.html">blog</a>
+</p>
+<p align="center">
+  <a href="misc.html">misc</a>
+</p>
