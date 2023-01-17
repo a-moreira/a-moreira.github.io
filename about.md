@@ -2,9 +2,8 @@
 layout: about.liquid
 ---
 
-<img src=assets/pepe-type.gif width="100">
-
 I'm Arthur, aka `afm`, `splessnosi`
+Thanks for checking my sick HTML and markdown skills
 
 - [github](https://github.com/a-moreira)
 - [matrix](https://matrix.to/#/@splessnosi:matrix.org)
