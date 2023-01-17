@@ -5,6 +5,8 @@ important ideas
 - [no taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation)
 - [NSA's policy decision to sabotage public cryptographic standards](https://blog.cr.yp.to/20220805-nsa.html)
 - [wtf happened in 1971?](https://wtfhappenedin1971.com/)
+- [the crypto anarchist manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
+- [a cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 - [remember Aaron Awartz](http://www.rememberaaronsw.com/about)
 - free assange
 

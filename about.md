@@ -3,7 +3,8 @@ layout: about.liquid
 ---
 
 I'm Arthur, aka `afm`, `splessnosi`
-Thanks for checking my sick HTML and markdown skills
+
+Thanks for checking out my sick HTML and markdown skills!
 
 - [github](https://github.com/a-moreira)
 - [matrix](https://matrix.to/#/@splessnosi:matrix.org)
