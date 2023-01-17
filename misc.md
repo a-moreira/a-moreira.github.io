@@ -5,11 +5,11 @@ important ideas
 - [no taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation)
 - [NSA's policy decision to sabotage public cryptographic standards](https://blog.cr.yp.to/20220805-nsa.html)
 - [wtf happened in 1971?](https://wtfhappenedin1971.com/)
-- [remember Aaron Awartz](http://www.rememberaaronsw.com/)
+- [remember Aaron Awartz](http://www.rememberaaronsw.com/about)
 - free assange
 
 cool websites and other links
-- [8bitpeopls](https://www.8bitpeoples.com/)
+- [8bitpeoples](https://www.8bitpeoples.com/)
 - [nodata.tv](https://nodata.tv)
 - [xxiivv](https://wiki.xxiivv.com)
 - [cat-v](http://cat-v.org/)
