@@ -15,7 +15,6 @@ cool websites and other links
 - [8bitpeoples](https://www.8bitpeoples.com/)
 - [nodata.tv](https://nodata.tv)
 - [xxiivv](https://wiki.xxiivv.com)
-- [cat-v](http://cat-v.org/)
 
 <p align="center">
   <img src="assets/hildegard.jpg">
