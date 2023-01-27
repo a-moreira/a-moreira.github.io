@@ -4,7 +4,8 @@ layout: about.liquid
 
 I'm Arthur, sometimes `afm`, `splessnosi`, `sybilresistant`
 
-I like to think that decentralization of resources and power will improve collective decision making and human life. I also like to think that it's possible to design systems to achieve that, using math and engineering.
+I like to think that decentralization of resources and power will improve collective decision making and human life. 
+I also like to think that it's possible to design systems to achieve that, using math and engineering.
 
 Thanks for checking out my sick HTML and markdown skills!
 
