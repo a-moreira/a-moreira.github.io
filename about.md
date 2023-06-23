@@ -2,8 +2,6 @@
 layout: about.liquid
 ---
 
-Thanks for checking out my sick HTML and markdown skills!
-
 - [github](https://github.com/a-moreira)
 - [matrix](https://matrix.to/#/@splessnosi:matrix.org)
 - tg: [at] sybilresistant
