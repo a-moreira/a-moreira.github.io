@@ -2,20 +2,23 @@
 layout: misc.liquid
 ---
 
-important ideas and inspiration
+some ideas I care about
 - [no taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation)
-- [NSA's policy decision to sabotage public cryptographic standards](https://blog.cr.yp.to/20220805-nsa.html)
 - [the crypto anarchist manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 - [a cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 - [wtf happened in 1971?](https://wtfhappenedin1971.com/)
 - [remember Aaron Awartz](http://www.rememberaaronsw.com/about)
 - free assange
-- [In solidarity with Library Genesis and Sci-Hub](https://custodians.online/)
+- In solidarity with Library Genesis and Sci-Hub: [custodians.online](https://custodians.online/)
+- [description](https://blog.cr.yp.to/20220805-nsa.html) of NSA's policy decision to sabotage public cryptographic standards by Daniel J. Bernstein
+
 
 interesting websites I like to visit and other links
 - music: [nodata.tv](https://nodata.tv)
-- blog: [xxiivv](https://wiki.xxiivv.com)
-- search engine: [marginalia](https://search.marginalia.nu/)
+- blogs:
+  - [xxiivv](https://wiki.xxiivv.com)
+  - [vitalik.ca](vitalik.ca)
+- search engines: [marginalia](https://search.marginalia.nu/)
 
 current projects:
 - check on my [github](github.com/a-moreira)
