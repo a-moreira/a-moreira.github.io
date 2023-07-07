@@ -17,11 +17,11 @@ interesting websites I like to visit and other links
 - music: [nodata.tv](https://nodata.tv)
 - blogs:
   - [xxiivv](https://wiki.xxiivv.com)
-  - [vitalik.ca](vitalik.ca)
+  - [vitalik.ca](https://vitalik.ca)
 - search engines: [marginalia](https://search.marginalia.nu/)
 
 current projects:
-- check on my [github](github.com/a-moreira)
+- check on my [github](https://github.com/a-moreira)
 
 some pictures I like:
 
