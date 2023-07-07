@@ -23,18 +23,18 @@ interesting websites I like to visit and other links
 current projects:
 - check on my [github](github.com/a-moreira)
 
+some pictures I like:
+
+<p align="center">
+Hildegard von Bingen receiving a vision (1151)
+</p>
 <p align="center">
   <img src="assets/hildegard.jpg">
 </p>
 
 <p align="center">
-cool picture of Hildegard von Bingen receiving a vision (1151)
+my urbit planet
 </p>
-
 <p align="center">
   <img src="assets/maslen-haslut.png">
-</p>
-
-<p align="center">
-my urbit planet
 </p>
