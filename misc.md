@@ -2,7 +2,7 @@
 layout: misc.liquid
 ---
 
-some ideas I care about
+some things I care about
 - [no taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation)
 - [the crypto anarchist manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 - [a cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html)
@@ -10,15 +10,15 @@ some ideas I care about
 - [remember Aaron Awartz](http://www.rememberaaronsw.com/about)
 - free assange
 - In solidarity with Library Genesis and Sci-Hub: [custodians.online](https://custodians.online/)
-- [description](https://blog.cr.yp.to/20220805-nsa.html) of NSA's policy decision to sabotage public cryptographic standards by Daniel J. Bernstein
+- [description](https://blog.cr.yp.to/20220805-nsa.html) of NSA's policy to sabotage public cryptographic standards by Daniel J. Bernstein
 
 
-interesting websites I like to visit and other links
-- music: [nodata.tv](https://nodata.tv)
-- blogs:
-  - [xxiivv](https://wiki.xxiivv.com)
-  - [vitalik.ca](https://vitalik.ca)
-- search engines: [marginalia](https://search.marginalia.nu/)
+some websites I like to follow
+- [nodata.tv](https://nodata.tv)
+- [lainchan](https://lainchain.org) 
+- [xxiivv](https://wiki.xxiivv.com)
+- [vitalik.ca](https://vitalik.ca)
+- [marginalia](https://search.marginalia.nu/)
 
 current projects:
 - check on my [github](https://github.com/a-moreira)
