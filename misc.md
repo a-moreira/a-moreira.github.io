@@ -15,7 +15,7 @@ some things I care about
 
 some websites I like to follow
 - [nodata.tv](https://nodata.tv)
-- [lainchan](https://lainchain.org) 
+- [lainchan](https://lainchan.org) 
 - [xxiivv](https://wiki.xxiivv.com)
 - [vitalik.ca](https://vitalik.ca)
 - [marginalia](https://search.marginalia.nu/)
