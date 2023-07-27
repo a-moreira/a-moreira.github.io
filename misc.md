@@ -18,6 +18,8 @@ some ideas I care about
   - [Local-first software](https://www.inkandswitch.com/local-first/) by Martin Kleppmann
   - [Description of NSA's sabotage](https://blog.cr.yp.to/20220805-nsa.html) of public cryptographic standards by Daniel J. Bernstein
 
+<br><br>
+
 random websites I often visit / inspiration
 - [lainchan](https://lainchan.org) 
 - [xxiivv](https://wiki.xxiivv.com)
@@ -25,6 +27,7 @@ random websites I often visit / inspiration
 - [marginalia](https://search.marginalia.nu/)
 - [cat-v](https://cat-v.org)
 
+<br><br>
 
 some pictures I like:
 <p align="center">
@@ -40,3 +43,8 @@ my urbit planet
 <p align="center">
   <img src="assets/maslen-haslut.png">
 </p>
+
+<br><br><br><br><br>
+
+_"Do you know what they do with engineers when they turn 40? They take them out and shoot them"_
+
