@@ -17,6 +17,7 @@ some ideas I care about
 - computing / privacy
   - [Local-first software](https://www.inkandswitch.com/local-first/) by Martin Kleppmann
   - [Description of NSA's sabotage](https://blog.cr.yp.to/20220805-nsa.html) of public cryptographic standards by Daniel J. Bernstein
+  - [Free Alex Pertsev](https://www.freealex.nl/) / Source Code is Free Speech
 
 <br><br>
 
