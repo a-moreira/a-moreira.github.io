@@ -2,17 +2,18 @@
 layout: misc.liquid
 ---
 
-some ideas I care about
+some ideas I care about in
 - [Information wants to be free](https://en.wikipedia.org/wiki/Information_wants_to_be_free)
   - [the crypto anarchist manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
   - [a cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html)
   - [Remember Aaron Awartz](http://www.rememberaaronsw.com/about) / [Guerilla Open Access Manifesto](https://archive.org/details/GuerillaOpenAccessManifesto/)
   - Free Assange
   - In solidarity with Library Genesis and Sci-Hub: [custodians.online](https://custodians.online/)
-
+    
 - economics / politics
   - [WTF happened in 1971?](https://wtfhappenedin1971.com/)
   - [No taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation)
+  - [How much energy Bitcoin actually consumes](https://12ft.io/proxy?q=https%3A%2F%2Fhbr.org%2F2021%2F05%2Fhow-much-energy-does-bitcoin-actually-consume) and why it's worth it.
     
 - computing / privacy
   - [Local-first software](https://www.inkandswitch.com/local-first/) by Martin Kleppmann
