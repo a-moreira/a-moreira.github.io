@@ -32,17 +32,17 @@ random websites I often visit / inspiration
 <br><br>
 
 some pictures I like:
-<p align="center">
+<p>
 Hildegard von Bingen receiving a vision (1151)
 </p>
-<p align="center">
+<p>
   <img src="assets/hildegard.jpg">
 </p>
 
-<p align="center">
+<p>
 my urbit planet
 </p>
-<p align="center">
+<p>
   <img src="assets/maslen-haslut.png">
 </p>
 
