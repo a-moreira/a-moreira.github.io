@@ -7,4 +7,3 @@ layout: about.liquid
 - tg: [at] sybilresistant
 - email: arthur [at] subtropical [dot] io
 - [rateyourmusic](https://rateyourmusic.com/~splessnosi)
-- urbit: `~maslen-haslut`
