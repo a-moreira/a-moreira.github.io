@@ -20,7 +20,7 @@ _"It seemed so obvious to me: 'Here we are faced with the problems of loss of pr
 
 <br><br>
 
-some pictures:
+some pictures I like:
 <p>
 Hildegard von Bingen receiving a vision (1151)
 </p>
