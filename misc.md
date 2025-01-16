@@ -4,10 +4,9 @@ layout: misc.liquid
 
 some important ideas for me:
 - [Information wants to be free](https://en.wikipedia.org/wiki/Information_wants_to_be_free)
-- [the crypto anarchist manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
-- [a cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html)
+- [a cypherpunk's manifesto by Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html)
 - [Remember Aaron Awartz](http://www.rememberaaronsw.com/about) / [Guerilla Open Access Manifesto](https://archive.org/details/GuerillaOpenAccessManifesto/)
-- Free Assange
+- FREE ASSANGE
 - In solidarity with Library Genesis and Sci-Hub: [custodians.online](https://custodians.online/)
 - [Description of NSA's sabotage](https://blog.cr.yp.to/20220805-nsa.html) of public cryptographic standards by Daniel J. Bernstein
 
