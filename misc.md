@@ -15,7 +15,7 @@ software development philosophy:
 - [Local-first software](https://www.inkandswitch.com/local-first/) by Martin Kleppmann
 - Source Code is Free Speech
 
-_"It seemed so obvious to me: 'Here we are faced with the problems of loss of privacy, creeping computerization, massive databases, more centralization - and Chaum offers a completely different direction to go in, one which puts power into the hands of individuals rather than governments and corporations. The computer can be used as a tool to liberate and protect people, rather than to control them.'"_ 
+_"It seemed so obvious to me: Here we are faced with the problems of loss of privacy, creeping computerization, massive databases, more centralization - and Chaum offers a completely different direction to go in, one which puts power into the hands of individuals rather than governments and corporations. The computer can be used as a tool to liberate and protect people, rather than to control them."_ 
 
 -- Hal Finney
 
@@ -35,4 +35,11 @@ my urbit planet
 </p>
 <p>
   <img src="assets/maslen-haslut.png">
+</p>
+
+<p>
+eye test house picture
+</p>
+<p>
+  <img src="assets/eye-test.png">
 </p>
