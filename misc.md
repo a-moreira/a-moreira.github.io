@@ -41,5 +41,5 @@ my urbit planet
 eye test house picture
 </p>
 <p>
-  <img src="assets/eye-test.png">
+  <img src="assets/eye-test.jpeg">
 </p>
