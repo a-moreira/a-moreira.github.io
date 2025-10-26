@@ -29,6 +29,7 @@ Hildegard von Bingen receiving a vision (1151)
   <img src="assets/hildegard.jpg">
 </p>
 
+<!--
 <p>
 my urbit planet
 ~maslen-haslut
@@ -43,3 +44,4 @@ eye test house picture
 <p>
   <img src="assets/eye-test.jpeg">
 </p>
+-->
